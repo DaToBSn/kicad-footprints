@@ -1,4 +1,4 @@
-(module Lorlin_CK_2P6T (layer F.Cu) (tedit 5D1C438D)
+(module Lorlin_CK_2P6T (layer F.Cu) (tedit 5D1D1583)
   (descr "Lorlin CK Rotary 2 Pole 6 Position ")
   (tags "CK1058 CK1048 CK1053 CK1043 2P6T")
   (fp_text reference SW** (at 0 -15) (layer F.SilkS)
